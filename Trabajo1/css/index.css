@@ -1,0 +1,10 @@
+.imagen-principal{
+    margin-top: 25px;
+    height: 450px;
+    width: 100%;
+    display: flex;
+    background-image: url("../img/image1.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
